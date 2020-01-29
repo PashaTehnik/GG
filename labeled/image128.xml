@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>YellowGoal</folder>
+	<filename>image128.jpg</filename>
+	<path>C:\Users\maper\Desktop\хуйня фор жопсон\YellowGoal\image128.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>YellowGoal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>630</xmin>
+			<ymin>453</ymin>
+			<xmax>948</xmax>
+			<ymax>721</ymax>
+		</bndbox>
+	</object>
+</annotation>

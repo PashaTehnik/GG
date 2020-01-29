@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>BlueGoal</folder>
+	<filename>image546.jpg</filename>
+	<path>C:\Users\maper\Desktop\хуйня фор жопсон\BlueGoal\image546.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BlueGoal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1488</xmin>
+			<ymin>325</ymin>
+			<xmax>1919</xmax>
+			<ymax>602</ymax>
+		</bndbox>
+	</object>
+</annotation>
